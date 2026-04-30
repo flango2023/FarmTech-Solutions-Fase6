@@ -37,8 +37,8 @@ A **FarmTech Solutions** expandiu seus serviços de IA para **segurança patrimo
 
 ## 🎥 Demonstração
 
-> **🎬 [Assista ao Vídeo Demonstrativo](https://youtube.com/watch?v=LINK_AQUI)**  
-> *Vídeo de 5 minutos mostrando o funcionamento completo do sistema*
+> **🎬 [Assista ao Vídeo Demonstrativo](https://youtu.be/gjU854tTVhw)**  
+> *Vídeo mostrando o funcionamento completo do sistema*
 
 ---
 
@@ -62,14 +62,15 @@ A **FarmTech Solutions** expandiu seus serviços de IA para **segurança patrimo
 
 ```
 FarmTech-Solutions-Fase6/
-├── 📓 RichardSchmitz_rm567951_pbl_fase6.ipynb    # Notebook principal
-├── 📊 dataset/                                   # Dataset organizado
-│   ├── images/train/val/test/                   # 80 imagens (40 car + 40 drone)
-│   └── labels/train/val/test/                   # Anotações YOLO format
-├── 📄 dataset.yaml                              # Configuração YOLOv5
-├── 📋 README.md                                 # Este arquivo
-├── 🔧 requirements.txt                          # Dependências Python
-└── 📜 LICENSE                                   # Licença MIT
+├── 📓 RichardSchmitz_rm567951_pbl_fase6.ipynb           # Notebook principal
+├── 📄 RichardSchmitz_rm567951_pbl_fase6.ipynb - Colab.pdf  # Execução completa (PDF)
+├── 📊 dataset/                                          # Dataset organizado
+│   ├── images/train/val/test/                          # 80 imagens (40 car + 40 drone)
+│   └── labels/train/val/test/                          # Anotações YOLO format
+├── 📄 dataset.yaml                                      # Configuração YOLOv5
+├── 📋 README.md                                         # Este arquivo
+├── 🔧 requirements.txt                                  # Dependências Python
+└── 📜 LICENSE                                           # Licença MIT
 ```
 
 ---
